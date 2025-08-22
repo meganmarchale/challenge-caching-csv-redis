@@ -2,9 +2,10 @@
 
 <h3> Airline on-time performance data, a  massive database to handle </h3>
 
-This project is a Streamlit interactive dashboard that analyzes the Airline On-Time Performance dataset (US flight delays)from Kaggle and demonstrates Redis caching to speed up expensive aggregations.
+This project is a Streamlit interactive dashboard that analyzes the Airline On-Time Performance dataset (US flight delays) from Kaggle and demonstrates Redis caching to speed up expensive aggregations.
+The project focuses on caching with Redis.
 
-<h3> Quick overview of this repo:</h3>
+<h3> Quick overview of this repo</h3>
 
 ```bash
 ├── README.md  
