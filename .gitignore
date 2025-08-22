@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Data
+.data/.airline.csv.shuffle
+.data/.airline_preprocessed.csv
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
