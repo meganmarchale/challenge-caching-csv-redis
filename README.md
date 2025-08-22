@@ -6,17 +6,19 @@ This project is a Streamlit interactive dashboard that analyzes the Airline On-T
 
 <h3> Quick overview of this repo:</h3>
 
+```bash
 ├── README.md  
 ├── docker-compose.yml  
 ├── .env  
 └── app/  
-.   ├── main.py         # Streamlit app entry point  
+    ├── main.py         # Streamlit app entry point  
     ├── cache.py        # Redis cache  
-    ├── config.py       # Load env vars  
-├─ data/  
-    ├─ airline.csv              # raw CSV  
-    └─ airline_preprocessed.csv # clean data  
-    └─ preprocessing.py         # python script to clean data  
+    └── config.py       # Load env vars  
+└── data/  
+    ├── airline.csv              # raw CSV  
+    ├── airline_preprocessed.csv # clean data  
+    └── preprocessing.py         # python script to clean data  
+```
 
 <h3>Installation & Setup</h3>
 1. Clone the repository  
