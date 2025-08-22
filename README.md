@@ -87,4 +87,4 @@ Streamlit’s @st.cache_data also prevents repeated CSV reloads during a session
 
 N.B.: Although caching helped improve the performances. This app is still slow due to the lack of optimization. Something thqt still needs to be worked on!
 
-
+![alt text](assets/image5.png)
